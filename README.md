@@ -2,12 +2,12 @@
 
 Limeade is a theme for Sublime Text 2 that replaces the Chrome-style tabs used in the default theme with more Mac native-looking tabs. Much of the theme aside from the tabs was based on [Soda Theme](https://github.com/buymeasoda/soda-theme) which you can find [here](https://github.com/buymeasoda/soda-theme).
 
-## Lookie see
+## Well lookie what we have here...
 
 ![Limeade Theme](http://cl.ly/1H3902093V3i42153B47/Image%202012.02.29%203:42:37%20PM.png)
 
 
-## Instal using Git
+## Install using Git
 
 Go to your Sublime Text 2 `Packages` directory and clone Limeade repository using the command below:
 
@@ -16,8 +16,7 @@ Go to your Sublime Text 2 `Packages` directory and clone Limeade repository usin
 ### Download Manually
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `Theme - Limeade`
-* Copy the folder to your Sublime Text 2 `Packages` directory
+* Copy the folder called `Theme - Limeade` to your Sublime Text 2 `Packages` directory
 
 ## Using Limeade
 
