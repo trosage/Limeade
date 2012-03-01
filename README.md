@@ -7,9 +7,9 @@ Limeade is a theme for Sublime Text 2 that replaces the Chrome-style tabs used i
 ![Limeade Theme](http://cl.ly/1H3902093V3i42153B47/Image%202012.02.29%203:42:37%20PM.png)
 
 
-## Installation using Git
+## Instal using Git
 
-Go to your Sublime Text 2 `Packages` directory and clone the theme repository using the command below:
+Go to your Sublime Text 2 `Packages` directory and clone Limeade repository using the command below:
 
     git clone https://github.com/trosage/Limeade/ "Theme - Limeade"
 
